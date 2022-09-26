@@ -1,0 +1,45 @@
+.subsection.header {
+    color: red;
+  }
+  .subsection.preview{
+    color: purple;
+  }
+  .subsection {
+    color: blue;
+  }
+  .alert-text {
+    color: red;
+  }
+  #title {
+    background-color: red;
+  }
+
+  .read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+}
+
+.unread {
+  /* several unique declarations */
+}
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* rgb example: */
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+  }
+
+  img {
+    height: auto;
+    width: 500px;
+  }
