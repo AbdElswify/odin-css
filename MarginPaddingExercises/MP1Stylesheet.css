@@ -1,0 +1,20 @@
+.divOne {
+    padding: 32px;
+    background-color: pink;
+    border: 10px solid blue;
+}
+
+.divTwo {
+    margin: 12px;
+    background-color: blue;
+    border: 10px solid purple;
+}
+
+.divThree {
+    
+    margin: 48px;
+    margin-left: 500px;
+    padding: 32px;
+    background-color: orange;
+    border: 10px solid red;
+}
